@@ -13,7 +13,7 @@
     }
   ],
   "prefer-stable": true,
-  "minimum-stability": "dev",
+  "minimum-stability": "master",
   "autoload": {
     "psr-4": {
       "Konohanaruto\\UmengPusher\\": "src/"
