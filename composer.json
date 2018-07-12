@@ -1,5 +1,5 @@
 {
-  "name": "konohanaruto/umeng-pusher",
+  "name": "umeng-pusher",
   "description": "This is Umeng packagist package",
   "type": "package",
   "require": {
