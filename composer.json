@@ -12,8 +12,7 @@
       "email": "kingshi2010@gmail.com"
     }
   ],
-  "prefer-stable": true,
-  "minimum-stability": "stable",
+  "minimum-stability": "dev-master",
   "autoload": {
     "psr-4": {
       "Konohanaruto\\UmengPusher\\": "src/"
