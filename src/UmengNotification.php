@@ -9,6 +9,8 @@
 
 namespace Konohanaruto\UmengPusher;
 
+use \Exception;
+
 abstract class UmengNotification {
 	// The host
 	protected $host = "http://msg.umeng.com";
