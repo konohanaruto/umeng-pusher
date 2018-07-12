@@ -7,7 +7,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Konohanaruto\Notification;
+namespace Konohanaruto\UmengPusher\Notification;
 
 abstract class UmengNotification {
 	// The host

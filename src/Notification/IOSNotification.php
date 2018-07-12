@@ -7,9 +7,9 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Konohanaruto\Notification;
+namespace Konohanaruto\UmengPusher\Notification;
 
-use Konohanaruto\Notification\UmengNotification;
+use Konohanaruto\UmengPusher\Notification\UmengNotification;
 
 abstract class IOSNotification extends UmengNotification {
 	// The array for payload, please see API doc for more information
