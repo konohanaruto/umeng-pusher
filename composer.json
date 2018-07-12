@@ -1,0 +1,21 @@
+{
+  "name": "konohanaruto/umeng-pusher",
+  "description": "This is Umeng packagist package",
+  "type": "package",
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "konohanaruto",
+      "email": "kingshi2010@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "Konohanaruto\\UmengPusher\\": "src/"
+    }
+  }
+}
