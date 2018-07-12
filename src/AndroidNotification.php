@@ -9,7 +9,7 @@
 
 namespace Konohanaruto\UmengPusher;
 
-use UmengNotification;
+use Konohanaruto\UmengPusher\UmengNotification;
 
 abstract class AndroidNotification extends UmengNotification {
 	// The array for payload, please see API doc for more information
