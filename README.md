@@ -6,7 +6,7 @@ Use composer to manage your dependencies and download umeng-pusher:
 composer require konohanaruto/umeng-pusher dev-master
 ```
 # Example
-see /example/test.php
+see src/example/test.php
 
 # License
 [MIT](https://opensource.org/licenses/MIT)
